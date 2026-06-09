@@ -1,0 +1,4 @@
+temporal server start-dev --db-filename testdb.db
+https://www.youtube.com/watch?v=HyP-ZvnPvIo
+npm run client
+npm run worker
